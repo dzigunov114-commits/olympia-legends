@@ -1,0 +1,10 @@
+/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: accelerometer=(), camera=(), display-capture=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-origin
+  X-Permitted-Cross-Domain-Policies: none
+  X-DNS-Prefetch-Control: off
+  Content-Security-Policy: default-src 'none'; script-src 'self' 'sha256-GgOE1Nkb5p/B1+fQmwOD5gMUWGUxgVD8vFNI1tgt1vA=' 'sha256-7DetQsttxVA0guo/Q8I16P+3MVQS78jPuN57gCP/BjU=' 'sha256-3aFQSYoCWNGgk/Jt2gVORr1TrLlJtVTMwDbhRmYopcE=' 'sha256-VCYE/Bag3xc7G8z0SSMP1OtTSNoOzBthmugQWxp3gqk=' 'sha256-pBagM2Ulovy0wDlyQISmRddADOXgIO/yZDBmwVt2HdM=' 'sha256-QTpiuPmuoSM8h1BqZJFYsQoxOrH2XD598FFNhiUI9iQ=' 'sha256-UkhJJdwSaUvYWlGT+FW4qwvQtq6j7hA06xRKWR4DQpM=' 'sha256-nQ1kxQzF7vchueRToE2BpW7k4C1YIhCyrl8y7WuF2hQ=' 'sha256-wteu6bi7ct623/UK6lFw9cAnpJS2s/89Na3/bIIU6Uk=' 'sha256-wpDPm5BS1ikSXP1M/wT/mJqMO+6nKrZL6h7IbhvZyB0=' 'sha256-JNJnnHZA5ifqUIiD0lAxWhtagBz8Vf4VC+x1uOP/tp4=' 'sha256-AbLidswTJvljV0zF+YiIj8E8RdtwFWlPlJ45S39JuFc=' 'sha256-tn+49YHQJ/O1R9mCPvC4b6U8+vjk7zRYalZo3gwUTT0=' 'sha256-LUfFy62ApqlFv3e+AZOEkVOJbz35Jn+2u1wU0x5Rjl8=' 'sha256-WrFoCT/zGiPZPML6+9n0ZDR7LZIUHNQKXtRiEnf5R4k=' 'sha256-1YpTBycLR4IK0y8cgGC5K59waiIYNxzvCJ3u7BiV2Q8=' 'sha256-b1UEo1S6glXVbZHzXoDfNvuA5gEKgBFzl/OzBNw4RzE=' 'sha256-mdnIYFHPxAbWXPprDHH27DyB3V+43ZRKmJC9GS00r4I=' 'sha256-xrf+Yoq9Z+dxNwts8RJHvUmILaFR851SID6c5uRamV0=' 'sha256-mgjGSa4SzqRpdKFJH1sLrirsffpED9XUYkBfsKoccUk=' 'sha256-E2wkIBOGWcU4xvIEKAi/NkUqynrPWPQWb+NF8/zMYBc=' 'sha256-Jd6xsNMlkNIcmR3+2Bu72mLI2UGDZMKaYgOEP1P2YXc=' 'sha256-j7JTn1wub+Xktwei3g6bESo+N4IymT7Jo0X/TxkYou4='; script-src-attr 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://ui-avatars.com; font-src 'self'; connect-src 'self' https://formspree.io; manifest-src 'self'; worker-src 'self'; media-src 'self' data:; frame-src 'none'; object-src 'none'; base-uri 'none'; form-action 'self' https://formspree.io; frame-ancestors 'none'; upgrade-insecure-requests
